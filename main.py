@@ -15,7 +15,7 @@ Webs de interés:
 
 def main():
 
-    openai.api_key = creds.api_key
+    openai.api_key = creds.api_key ##"Tu api_key creada en https://platform.openai.com"
     
     print("💬 [bold red]ChatGPT API en Python[/bold red]")
 
