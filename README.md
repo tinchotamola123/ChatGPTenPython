@@ -1,6 +1,6 @@
 # ChatGPTenPython
 
-Mini Chat con ChatGPT en terminal con Typer !!
+Mini Chat con ChatGPT en terminal con Typer !!!
 
 ![](/s1.jpeg)
 
